@@ -1,3 +1,2 @@
 # bash_profile
-.bashrc
-.vimrc
+*.vimrc
